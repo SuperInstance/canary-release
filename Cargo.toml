@@ -1,0 +1,9 @@
+[package]
+name = "canary-release"
+version = "0.1.0"
+description = "A Rust library for Canary Release"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/canary-release"
+edition = "2021"
+
+[dependencies]
